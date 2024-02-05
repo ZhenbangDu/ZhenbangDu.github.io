@@ -22,8 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
-- *2022.09 - Present*, Aritificial Intelligence, Huazhong University of Science and Technology, Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). 
-- *2018.09 - 2022.06*, Automation, Huazhong University of Science and Technology, Advisor: Prof. [Yuan Ye](http://yy311.github.io/)). 
+- *2022.09 - Present*,  Aritificial  Intelligence, Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). 
+- *2018.09 - 2022.06*,  Automation,  Huazhong University of Science and Technology,  Advisor: Prof. [Yuan Ye](http://yy311.github.io/). 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
