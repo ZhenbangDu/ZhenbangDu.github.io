@@ -25,10 +25,12 @@ Hi
 
 # 💻 Internships
 - *2023.12 - 2024.05*, JD.com, China.
-
+- 
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📝 Publications 
 
@@ -62,15 +64,18 @@ Hi
 </div>
 
 
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Zhixing Scholarship, HUST.
+- *2023.08* First Prize, World Robot Contest Championships.
+- *2022.08* First Prize, World Robot Contest Championships.
+- *2022.06* Outstanding Graduate, HUST.
+- *2021.09* Scientific and Technological Innovation Scholarship, HUST.
+- *2020.11* First Prize, 3nd National University Contest on Intelligent Robotic Innovations & 2020 Intelligent Robot Fighting Competition.
+- *2020.09* Scientific and Technological Innovation Scholarship, HUST.
+- *2020.08* Second Prize, 15th National College Students’ Smart Vehicle Competition.
 
-
-;# 💬 Invited Talks
-;- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-;- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+<!--
+//;# 💬 Invited Talks
+//;- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+//;- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
