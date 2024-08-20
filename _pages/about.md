@@ -23,14 +23,10 @@ Hi
 - *2022.09 - Present*,  Aritificial  Intelligence, Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). 
 - *2018.09 - 2022.06*,  Automation,  Huazhong University of Science and Technology,  Advisor: Prof. [Yuan Ye](http://yy311.github.io/). 
 
+
 # 💻 Internships
 - *2023.12 - 2024.05*, JD.com, China.
 
-
-
-//# 🔥 News
-//- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-//- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -74,7 +70,6 @@ Hi
 - *2020.09* Scientific and Technological Innovation Scholarship, HUST.
 - *2020.08* Second Prize, 15th National College Students’ Smart Vehicle Competition.
 
-//;# 💬 Invited Talks
-//;- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 //;- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
