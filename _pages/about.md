@@ -22,11 +22,13 @@ Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial In
 I am now seeking opportunities to pursue a Ph.D. in 2025 fall.
 
 # 📖 Educations
+
 - *2022.09 - Present*,  Aritificial  Intelligence, Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). 
 - *2018.09 - 2022.06*,  Automation,  Huazhong University of Science and Technology,  Advisor: Prof. [Yuan Ye](http://yy311.github.io/). 
 
 
 # 💻 Internships
+
 - *2023.12 - 2024.05*, JD.com, China.
 
 
@@ -62,7 +64,38 @@ I am now seeking opportunities to pursue a Ph.D. in 2025 fall.
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/MBMD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Branch Mutual-Distillation Transformer for EEG-Based Seizure Subtype Classification](https://ieeexplore.ieee.org/document/10433788)
+
+Ruimin Peng, **Zhenbang Du**, Changming Zhao, Jingwei Luo, Wenzhong Liu, Xinxing Chen, Dongrui Wu.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE tai</div><img src='images/SS-TrBoosting.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semi-supervised transfer boosting (SS-TrBoosting)](https://ieeexplore.ieee.org/abstract/document/10382492)
+
+Lingfei Deng, Changming Zhao, **Zhenbang Du**, Kun Xia, Dongrui Wu.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/soh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Transfer Learning-Based Method for Personalized State of Health Estimation of Lithium-Ion Batteries](https://ieeexplore.ieee.org/abstract/document/9788003)
+
+Guijun Ma, Songpei Xu, Tao Yang, **Zhenbang Du**, Limin Zhu, Han Ding, Ye Yuan.
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
+
 - *2023.10* Zhixing Scholarship, HUST.
 - *2023.08* First Prize, World Robot Contest Championships.
 - *2022.08* First Prize, World Robot Contest Championships.
