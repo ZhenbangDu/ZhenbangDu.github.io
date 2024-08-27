@@ -97,8 +97,6 @@ Guijun Ma, Songpei Xu, Tao Yang, **Zhenbang Du**, Limin Zhu, Han Ding, Ye Yuan.
 [Overview of the winning approaches in 2022 World Robot Contest Championship Asynchronous SSVEP](https://journals.sagepub.com/doi/full/10.26599/BSA.2023.9050010)
 
 **Zhenbang Du**, Rui Bian, Dongrui Wu.
-</div>
-</div>
 
 
 # 🎖 Honors and Awards
