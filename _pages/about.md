@@ -29,7 +29,7 @@ I am now seeking opportunities to pursue a Ph.D. in 2025 fall.
 
 # 💻 Internships
 
-- *2023.12 - 2024.05*, JD.com, China.
+- *2023.12 - 2024.05*, JD.com, China. Mentor: Dr. [Wei Feng](https://scholar.google.com.hk/citations?user=FvIAct4AAAAJ).
 
 
 # 📝 Publications 
@@ -74,7 +74,7 @@ Ruimin Peng, **Zhenbang Du**, Changming Zhao, Jingwei Luo, Wenzhong Liu, Xinxing
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE tai</div><img src='images/SS-TrBoosting.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAI</div><img src='images/SS-TrBoosting.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Semi-supervised transfer boosting (SS-TrBoosting)](https://ieeexplore.ieee.org/abstract/document/10382492)
@@ -90,6 +90,15 @@ Lingfei Deng, Changming Zhao, **Zhenbang Du**, Kun Xia, Dongrui Wu.
 [A Transfer Learning-Based Method for Personalized State of Health Estimation of Lithium-Ion Batteries](https://ieeexplore.ieee.org/abstract/document/9788003)
 
 Guijun Ma, Songpei Xu, Tao Yang, **Zhenbang Du**, Limin Zhu, Han Ding, Ye Yuan.
+</div>
+</div>
+
+
+</div></div>
+
+[Overview of the winning approaches in 2022 World Robot Contest Championship Asynchronous SSVEP](https://journals.sagepub.com/doi/full/10.26599/BSA.2023.9050010)
+
+**Zhenbang Du**, Rui Bian, Dongrui Wu.
 </div>
 </div>
 
