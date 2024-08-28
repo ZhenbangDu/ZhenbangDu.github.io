@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial Intelligence at Huazhong University of Science and Technology (HUST), where I am fortunate to work under the guidance of Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). I previously completed my B.S. in Automation at HUST, where I was fortunately guided by Prof. [Yuan Ye](http://yy311.github.io/). My current research focuses on the mixture of experts, diffusion models, and transfer learning. 
 
 I am now seeking opportunities to pursue a Ph.D. in 2025 fall.
