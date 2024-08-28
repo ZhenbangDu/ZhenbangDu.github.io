@@ -21,18 +21,18 @@ Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial In
 
 I am now seeking opportunities to pursue a Ph.D. in 2025 fall.
 
-# 📖 Educations
+# Educations
 
 - *2022.09 - Present*,  Aritificial  Intelligence, Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). 
 - *2018.09 - 2022.06*,  Automation,  Huazhong University of Science and Technology,  Advisor: Prof. [Yuan Ye](http://yy311.github.io/). 
 
 
-# 💻 Internships
+# Internships
 
 - *2023.12 - 2024.05*, JD.com, China. Mentor: Dr. [Wei Feng](https://scholar.google.com.hk/citations?user=FvIAct4AAAAJ).
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/reliable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,7 +97,7 @@ Guijun Ma, Songpei Xu, Tao Yang, **Zhenbang Du**, Limin Zhu, Han Ding, Ye Yuan.
 - ``Brain Science Advances`` [Overview of the winning approaches in 2022 World Robot Contest Championship Asynchronous SSVEP](https://journals.sagepub.com/doi/full/10.26599/BSA.2023.9050010), **Zhenbang Du**, Rui Bian, Dongrui Wu.
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - *2023.10* Zhixing Scholarship, HUST.
 - *2023.08* First Prize, World Robot Contest Championships.
