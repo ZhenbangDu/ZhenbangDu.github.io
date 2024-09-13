@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial Intelligence at Huazhong University of Science and Technology (HUST), where I am fortunate to work under the guidance of Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). I previously completed my B.S. in Automation at HUST, where I was fortunately guided by Prof. [Yuan Ye](http://yy311.github.io/). My current research focuses on the mixture of experts, diffusion models, and transfer learning. 
 
-I am now seeking opportunities to pursue a Ph.D. in 2025 fall.
+I am actively seeking opportunities to pursue a Ph.D. beginning in the Fall of 2025!
 
 # Educations
 
@@ -31,6 +31,7 @@ I am now seeking opportunities to pursue a Ph.D. in 2025 fall.
 
 # Internships
 
+- *2023.06 - Present*, Georgia Institute of Technology, USA (Remote). Advisor: Prof. [Yingyan (Celine) Lin](https://scholar.google.com/citations?user=dio8IesAAAAJ).
 - *2023.12 - 2024.05*, JD.com, China. Mentor: Dr. [Wei Feng](https://scholar.google.com.hk/citations?user=FvIAct4AAAAJ).
 
 
