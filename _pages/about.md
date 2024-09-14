@@ -31,7 +31,7 @@ I am actively seeking opportunities to pursue a Ph.D. beginning in the Fall of 2
 
 # Internships
 
-- *2023.06 - Present*, Georgia Institute of Technology, USA (Remote). Advisor: Prof. [Yingyan (Celine) Lin](https://scholar.google.com/citations?user=dio8IesAAAAJ).
+- *2024.06 - Present*, Georgia Institute of Technology, USA (Remote). Advisor: Prof. [Yingyan (Celine) Lin](https://scholar.google.com/citations?user=dio8IesAAAAJ).
 - *2023.12 - 2024.05*, JD.com, China. Mentor: Dr. [Wei Feng](https://scholar.google.com.hk/citations?user=FvIAct4AAAAJ).
 
 
