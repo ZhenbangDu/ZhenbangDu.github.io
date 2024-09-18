@@ -19,21 +19,26 @@ redirect_from:
 
 # About Me
 
-Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial Intelligence at Huazhong University of Science and Technology (HUST), where I am fortunate to work under the guidance of Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). I previously completed my B.S. in Automation at HUST, where I was fortunately guided by Prof. [Yuan Ye](http://yy311.github.io/). My current research focuses on the **mixture of experts, diffusion models, and transfer learning**. 
+Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial Intelligence at Huazhong University of Science and Technology (HUST), where I am fortunate to work under the guidance of Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). I previously completed my B.S. in Automation at HUST, where I was fortunately guided by Prof. [Yuan Ye](http://yy311.github.io/). 
 
-**I am actively seeking opportunities to pursue a Ph.D. beginning in the Fall of 2025!**
+My current research focuses on the **diffusion models, mixture of experts, and transfer learning**. 
+
+🔥**I am actively seeking opportunities to pursue a Ph.D. beginning in the Fall of 2025!**
 
 # Educations
 
-- *2022.09 - Present*,  Aritificial  Intelligence, Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/). 
-- *2018.09 - 2022.06*,  Automation (Exemplary Excellence Class),  Huazhong University of Science and Technology,  Advisor: Prof. [Yuan Ye](http://yy311.github.io/). 
+- *2022.09 - Present*,  Aritificial  Intelligence, Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/).
+  
+- *2018.09 - 2022.06*,  Automation (Exemplary Excellence Class),  Huazhong University of Science and Technology,  Advisor: Prof. [Yuan Ye](http://yy311.github.io/).
 
 
 # Internships
 
 - *2024.06 - Present*, Georgia Institute of Technology, USA. Advisor: Prof. [Yingyan (Celine) Lin](https://scholar.google.com/citations?user=dio8IesAAAAJ).
-- *2023.12 - 2024.05*, JD.com, China. Mentor: Dr. [Wei Feng](https://scholar.google.com.hk/citations?user=FvIAct4AAAAJ).
+  - Accelerating the inference and training of diffusion models.
 
+- *2023.12 - 2024.05*, JD.com, China. Mentor: Dr. [Wei Feng](https://scholar.google.com.hk/citations?user=FvIAct4AAAAJ).
+  - Reinforcement Learning from Human Feedback (RLHF) for diffusion models.
 
 # Publications 
 
