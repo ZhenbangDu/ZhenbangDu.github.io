@@ -41,6 +41,7 @@ Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial In
 <div class='paper-box-text' markdown="1">
 
 [Towards Reliable Advertising Image Generation Using Human Feedback](https://arxiv.org/abs/2408.00418)
+
 **Zhenbang Du***, Wei Feng*, Haohan Wang, et al.
 
 [**Code&Dataset**](https://github.com/ZhenbangDu/Reliable_AD) 
@@ -56,6 +57,7 @@ Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial In
 <div class='paper-box-text' markdown="1">
 
 [Mixture-of-Experts for Open Set Domain Adaptation: A Dual-Space Detection Approach](https://arxiv.org/abs/2311.00285)
+
 **Zhenbang Du**, Jiayu An, Yunlu Tu, Jiahao Hong, Dongrui Wu.
 
 [**Code**](https://github.com/ZhenbangDu/DSD) 
@@ -71,6 +73,7 @@ Hi! My name is Zhenbang Du, and I am currently pursuing my M.S. in Artificial In
 <div class='paper-box-text' markdown="1">
 
 [Mixture of Experts for EEG-Based Seizure Subtype Classification](https://ieeexplore.ieee.org/document/10335740)
+
 **Zhenbang Du**, Ruimin Peng, Wenzhong Liu, Wei Li, Dongrui Wu.
 
 [**Code**](https://github.com/ZhenbangDu/Seizure_MoE) 
