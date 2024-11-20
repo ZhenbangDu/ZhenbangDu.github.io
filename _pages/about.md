@@ -124,12 +124,14 @@ Guijun Ma, Songpei Xu, Tao Yang, **Zhenbang Du**, Limin Zhu, Han Ding, Ye Yuan.
 
 # Honors and Awards
 
+- *2024.10* National Scholarship, HUST.
+- *2024.10* Graduate Scientific and Technological Innovation Scholarship, HUST.
 - *2023.10* Zhixing Scholarship, HUST.
 - *2023.08* First Prize, World Robot Contest Championships.
 - *2022.08* First Prize, World Robot Contest Championships.
 - *2022.06* Outstanding Graduate, HUST.
-- *2021.09* Scientific and Technological Innovation Scholarship, HUST.
+- *2021.09* Undergraduate Scientific and Technological Innovation Scholarship, HUST.
 - *2020.11* First Prize, 3nd National University Contest on Intelligent Robotic Innovations & 2020 Intelligent Robot Fighting Competition.
-- *2020.09* Scientific and Technological Innovation Scholarship, HUST.
+- *2020.09* Undergraduate Scientific and Technological Innovation Scholarship, HUST.
 - *2020.08* Second Prize, 15th National College Students’ Smart Vehicle Competition.
 
