@@ -27,7 +27,7 @@ My current research focuses on the **diffusion models, mixture of experts, and t
 
 # Educations
 
-- *2022.09 - Present*,  Aritificial  Intelligence, Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/).
+- *2022.09 - Present*,  Intelligent Science and Technology (previously named Aritificial  Intelligence), Huazhong University of Science and Technology,  Advisor: Prof. [Dongrui Wu](https://sites.google.com/site/drwuhust/).
   
 - *2018.09 - 2022.06*,  Automation (Exemplary Excellence Class),  Huazhong University of Science and Technology,  Advisor: Prof. [Yuan Ye](http://yy311.github.io/).
 
@@ -124,7 +124,7 @@ Guijun Ma, Songpei Xu, Tao Yang, **Zhenbang Du**, Limin Zhu, Han Ding, Ye Yuan.
 
 # Honors and Awards
 
-- *2024.10* National Scholarship, HUST.
+- *2024.10* National Scholarship (Top 2%), HUST.
 - *2024.10* Graduate Scientific and Technological Innovation Scholarship, HUST.
 - *2023.10* Zhixing Scholarship, HUST.
 - *2023.08* First Prize, World Robot Contest Championships.
