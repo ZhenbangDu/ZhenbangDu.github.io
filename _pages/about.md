@@ -33,10 +33,10 @@ My current research focuses on the **diffusion models, mixture of experts, and t
 
 
 # Internships
-
+<!--
 - *2024.06 - Present*, Georgia Institute of Technology, USA. Advisor: Prof. [Yingyan (Celine) Lin](https://scholar.google.com/citations?user=dio8IesAAAAJ).
   - Accelerating the inference and training of diffusion models.
-
+-->
 - *2023.12 - 2024.05*, JD.com, China. Mentor: Dr. [Wei Feng](https://scholar.google.com.hk/citations?user=FvIAct4AAAAJ).
   - Reinforcement Learning from Human Feedback (RLHF) for diffusion models.
 
