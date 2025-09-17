@@ -469,6 +469,13 @@ ninja.data = [{
           window.open("https://github.com/ZhenbangDu", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/zhenbang-du-8aa2b3329", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
