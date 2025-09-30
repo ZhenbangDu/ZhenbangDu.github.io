@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-ll-be-at-iccv-25-in-hawaii-oct-19-23th-in-person-happy-to-chat",
-          title: 'I’ll be at ICCV 25 in Hawaii (Oct 19 – 23th) in person—happy...',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
