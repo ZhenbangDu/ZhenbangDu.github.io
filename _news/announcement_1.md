@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I'll be at ICCV 25 in Hawaii🌴 (Oct 19 – 23th) in person—happy to chat!
+ I'll be at ICCV 25 in Hawaii (Oct 19 – 23th) in person—happy to chat!
