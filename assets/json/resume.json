@@ -37,7 +37,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2025-08-01",
-      "endDate": null,
+      "endDate": null
     },
     {
       "institution": "Huazhong University of Science and Technolog",
@@ -45,7 +45,7 @@
       "area": "Intelligent Science and Technology",
       "studyType": "Master",
       "startDate": "2022-09-01",
-      "endDate": "2025-06-01",
+      "endDate": "2025-06-01"
     },
         {
       "institution": "Huazhong University of Science and Technolog",
@@ -53,7 +53,7 @@
       "area": "Automation",
       "studyType": "Bachelor",
       "startDate": "2018-09-01",
-      "endDate": "2022-06-01",
+      "endDate": "2022-06-01"
     }
   ],
   "awards": [
@@ -62,7 +62,7 @@
       "date": "2025-06-01",
       "awarder": "Huazhong University of Science and Technolog",
       "url": null,
-      "summary": null,
+      "summary": null
     },
 
         {
@@ -77,7 +77,7 @@
       "date": "2022-06-01",
       "awarder": "Huazhong University of Science and Technolog",
       "url": null,
-      "summary": null,
+      "summary": null
     }
   ],
   "certificates": [
