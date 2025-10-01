@@ -37,7 +37,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2025-08-01",
-      "endDate": null
+      "endDate": ""
     },
     {
       "institution": "Huazhong University of Science and Technolog",
@@ -47,7 +47,7 @@
       "startDate": "2022-09-01",
       "endDate": "2025-06-01"
     },
-        {
+    {
       "institution": "Huazhong University of Science and Technolog",
       "location": "Hubei, China",
       "area": "Automation",
@@ -63,12 +63,12 @@
       "awarder": "Huazhong University of Science and Technolog"
     },
 
-        {
+    {
       "title": "National Scholarship (Top 2%)",
       "date": "2024-10-01",
       "awarder": "Huazhong University of Science and Technolog"
     },
-        {
+    {
       "title": "Outstanding Graduate",
       "date": "2022-06-01",
       "awarder": "Huazhong University of Science and Technolog"
@@ -90,7 +90,7 @@
       "name": "Diffusion Models",
       "icon": "fa-solid fa-tag"
     },
-        {
+    {
       "name": "Efficient Machine Learning",
       "icon": "fa-solid fa-tag"
     }
