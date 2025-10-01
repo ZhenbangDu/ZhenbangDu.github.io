@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-attend-iccv-2025-in-hawaii-oct-19-23-palmtree-happy-to-chat-smile",
-          title: 'I will attend ICCV 2025 in Hawaii (Oct. 19–23) :palmtree:, happy to chat!...',
+            },},{id: "news-i-will-attend-iccv-2025-in-hawaii-oct-19-23-️-happy-to-chat-smile",
+          title: 'I will attend ICCV 2025 in Hawaii (Oct. 19–23) 🏝️ , happy to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
