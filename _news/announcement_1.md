@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will attend ICCV 2025 in Hawaii, happy to chat! :smile:
+I will attend **ICCV 2025** in Hawaii (Oct. 19–23) :palmtree:, happy to chat! :smile:
