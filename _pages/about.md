@@ -25,4 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Under Construction
+I am a **first-year Ph.D. student in Computer Science** at the **Georgia Institute of Technology**, advised by [**Prof. Yingyan (Celine) Lin**](https://eiclab.scs.gatech.edu/pages/team.html). My research focuses on **efficient machine learning** and **diffusion models**, with an emphasis on accelerating training and inference while ensuring reliability and scalability in real-world applications.
+
+Prior to Georgia Tech, I received my Master’s degree in Intelligent Science and Technology (2022–2025) and Bachelor’s degree in Automation (Exemplary Excellence Class) (2018–2022) from **Huazhong University of Science and Technology (HUST)**, where I worked under [**Prof. Dongrui Wu**](https://sites.google.com/site/drwuhust/) and [**Prof. Ye Yuan**](http://yy311.github.io/) on topics including **mixture-of-experts models** and **transfer learning**.
+
+I have also received multiple honors, including the **National Scholarship (Top 2%)** and the **Outstanding Graduate Award**.
