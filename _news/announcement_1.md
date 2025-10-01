@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will attend ICCV 2025 in Hawaii, happy to chat! :smile:
