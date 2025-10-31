@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **first-year Ph.D. student in Computer Science** at the **Georgia Institute of Technology**. My research focuses on **reliable** and **efficient machine learning**, with an emphasis on reliability and scalability in real-world applications.
+I am a **first-year Ph.D. student in Computer Science** at the **Georgia Institute of Technology**. My research focuses on **trustworthy** and **efficient machine learning**, with an emphasis on reliability and scalability in real-world applications.
 
 Prior to Georgia Tech, I received my Master’s degree in Intelligent Science and Technology (2022–2025) and Bachelor’s degree in Automation (Exemplary Excellence Class) (2018–2022) from **Huazhong University of Science and Technology (HUST)**, where I luckily worked under [**Prof. Dongrui Wu**](https://sites.google.com/site/drwuhust/) and [**Prof. Ye Yuan**](http://yy311.github.io/) on topics including **mixture-of-experts models** and **transfer learning**.
 
