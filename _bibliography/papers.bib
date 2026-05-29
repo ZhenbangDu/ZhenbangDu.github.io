@@ -8,7 +8,8 @@
   booktitle={arXiv},
   abstract={Discrete diffusion language models (dLLMs) generate text by iteratively denoising a masked sequence. However, standard dLLMs condition each denoising step solely on the current hard-masked sequence, while intermediate continuous representations are discarded after sampling and remasking. We term this bottleneck the Information Island issue: continuous information remains isolated within individual denoising steps and fails to propagate across the trajectory. This bottleneck is especially harmful for reasoning, which requires intermediate reasoning state to be preserved and updated across many denoising steps. To address this limitation, we introduce MetaState, a lightweight recurrent augmentation that equips a frozen dLLM backbone with persistent, fixed-size working memory. MetaState comprises three modules with a shared time conditioner: a cross-attentionMixer that reads backbone activations into memory slots, a GRU-styleUpdater that integrates information across steps, and a cross-attentionInjector that writes the updated memory back into the backbone. We train these modules with a dedicated K-step unrolling pipeline to learn multi-step dynamics. MetaState adds only ∼0.6% trainable parameters while keeping the backbone frozen, and consistently improves reasoning performance over frozen baselines on mathematical reasoning and code generation benchmarks, with an average gain of 4.5% across all evaluations.},
   html={https://arxiv.org/pdf/2603.01331},
-  year={2026}
+  year={2026},
+  preview={metastate.png},
 }
 
 
@@ -20,6 +21,7 @@
   abstract={Diffusion Large Language Models (dLLMs) have emerged as a promising alternative to autoregressive generation by enabling parallel token prediction. However, practical dLLM decoding still suffers from high inference latency, which limits deployment. In this work, we observe that a substantial part of this inefficiency comes from recurring redundancy in the decoding process, including spatial redundancy caused by confidence clusters and positional ambiguity, and temporal redundancy caused by repeatedly remasking predictions that have already stabilized. Motivated by these patterns, we propose R^2-dLLM, a unified framework for reducing decoding redundancy from both inference and training perspectives. At inference time, we introduce training-free decoding rules that aggregate local confidence and token predictions, and finalize temporally stable tokens to avoid redundant decoding steps. We further propose a redundancy-aware supervised fine-tuning pipeline that aligns the model with efficient decoding trajectories and reduces reliance on manually tuned thresholds. Experiments demonstrate that R^2-dLLM consistently reduces the number of decoding steps by up to 75% compared to existing decoding strategies, while maintaining competitive generation quality across different models and tasks. These results validate that decoding redundancy is a central bottleneck in dLLMs, and that explicitly reducing it yields substantial practical efficiency gains.},
   html={https://arxiv.org/abs/2604.18995},
   year={2026},
+  preview={r2dllm.png},
 }
 
 @inproceedings{du2025postdiff,
@@ -71,7 +73,8 @@
   html={https://openaccess.thecvf.com/content/CVPR2025/html/You_Layer-_and_Timestep-Adaptive_Differentiable_Token_Compression_Ratios_for_Efficient_Diffusion_CVPR_2025_paper.html},
   code={https://github.com/GATECH-EIC/DiffCR},
   pages={18072--18082},
-  year={2025}
+  year={2025},
+  preview={mod.png},
 }
 
 @inproceedings{chen2025ctr,
