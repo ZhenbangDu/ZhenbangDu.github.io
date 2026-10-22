@@ -26,13 +26,15 @@
   preview={pact.png},
 }
 
-@article{xia2026metastate,
-  abbr={Preprint},
+@inproceedings{xia2026metastate,
+  abbr={COLM 2026},
   title={MetaState: Persistent Working Memory Enhances Reasoning in Discrete Diffusion Language Models},
   author={Xia, Kejing and Li, Mingzhe and Wei, Lixuan and Du, Zhenbang and Yuan, Xiangchi and Shi, Dachuan and Jin, Qirui and Lee, Wenke},
-  booktitle={arXiv},
-  abstract={Discrete diffusion language models (dLLMs) generate text by iteratively denoising a masked sequence. However, standard dLLMs condition each denoising step solely on the current hard-masked sequence, while intermediate continuous representations are discarded after sampling and remasking. We term this bottleneck the Information Island issue: continuous information remains isolated within individual denoising steps and fails to propagate across the trajectory. This bottleneck is especially harmful for reasoning, which requires intermediate reasoning state to be preserved and updated across many denoising steps. To address this limitation, we introduce MetaState, a lightweight recurrent augmentation that equips a frozen dLLM backbone with persistent, fixed-size working memory. MetaState comprises three modules with a shared time conditioner: a cross-attentionMixer that reads backbone activations into memory slots, a GRU-styleUpdater that integrates information across steps, and a cross-attentionInjector that writes the updated memory back into the backbone. We train these modules with a dedicated K-step unrolling pipeline to learn multi-step dynamics. MetaState adds only ∼0.6% trainable parameters while keeping the backbone frozen, and consistently improves reasoning performance over frozen baselines on mathematical reasoning and code generation benchmarks, with an average gain of 4.5% across all evaluations.},
+  booktitle={Proceedings of the Conference on Language Modeling},
+  abstract={Discrete diffusion language models (dLLMs) generate text by iteratively denoising a masked sequence. However, standard dLLMs condition each denoising step solely on the current hard-masked sequence, while intermediate continuous representations are discarded after sampling and remasking. We term this bottleneck the Information Island issue: continuous information remains isolated within individual denoising steps and fails to propagate across the trajectory. This bottleneck is especially harmful for reasoning, which requires intermediate reasoning state to be preserved and updated across many denoising steps. To address this limitation, we introduce MetaState, a lightweight recurrent augmentation that equips a frozen dLLM backbone with persistent, fixed-size working memory. MetaState comprises three modules with a shared time conditioner: a cross-attention Mixer that reads backbone activations into memory slots, a GRU-style Updater that integrates information across steps, and a cross-attention Injector that writes the updated memory back into the backbone. We train these modules with a dedicated K-step unrolling pipeline to learn multi-step dynamics. MetaState adds only ∼0.6% trainable parameters while keeping the backbone frozen, and consistently improves reasoning performance over frozen baselines on mathematical reasoning and code generation benchmarks, with an average gain of 4.5% across all evaluations.},
   html={https://arxiv.org/abs/2603.01331},
+  website={https://les1a.github.io/projects/metastate/},
+  code={https://github.com/Les1a/MetaState},
   year={2026},
   preview={metastate.png},
 }
