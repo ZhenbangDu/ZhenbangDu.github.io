@@ -29,4 +29,4 @@ I am a **first-year Ph.D. student in Computer Science** at the **Georgia Institu
 
 Prior to Georgia Tech, I received my Master’s degree in Intelligent Science and Technology (2022–2025) and Bachelor’s degree in Automation (Exemplary Excellence Class) (2018–2022) from **Huazhong University of Science and Technology (HUST)**, where I luckily worked under [**Prof. Dongrui Wu**](https://sites.google.com/site/drwuhust/) and [**Prof. Ye Yuan**](http://yy311.github.io/) on topics including **mixture-of-experts models** and **transfer learning**.
 
-I have also received multiple honors, including the **National Scholarship (Top 2%)** and the **Outstanding Graduate Award**.
+*I’m always happy to discuss research and explore opportunities for collaboration. Feel free to reach out!*
