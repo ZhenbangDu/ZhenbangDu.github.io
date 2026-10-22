@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title description">
+  <title id="title">Transfer learning for battery state-of-health estimation</title>
+  <desc id="description">Illustrative overview based on the public abstract of DOI 10.1109/TNNLS.2022.3176925: charging voltage curves are processed by a convolutional neural network, with maximum mean discrepancy used for domain adaptation, to estimate battery state of health. This schematic is not an original figure or an experimental result from the paper.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#70849a"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="560" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#26384c" text-anchor="middle">
+    <text x="600" y="60" font-size="30" font-weight="700">Transfer learning for battery health estimation</text>
+    <text x="192" y="111" font-size="23" font-weight="700">Charging curves</text>
+    <rect x="42" y="133" width="300" height="148" rx="14" fill="#edf4fb" stroke="#82a8cd" stroke-width="2"/>
+    <text x="105" y="165" font-size="21" fill="#436f9b">Source</text>
+    <path d="M76 250V185M76 250H312" fill="none" stroke="#a5b4c3" stroke-width="2"/>
+    <path d="M87 237C110 232 119 212 152 208S209 204 235 192S274 184 302 181" fill="none" stroke="#527faf" stroke-width="5"/>
+    <path d="M87 244C115 238 128 219 157 216S213 213 242 203S278 197 302 193" fill="none" stroke="#8eb0d0" stroke-width="4"/>
+    <rect x="42" y="305" width="300" height="148" rx="14" fill="#eff7ef" stroke="#9cbf98" stroke-width="2"/>
+    <text x="102" y="337" font-size="21" fill="#53844d">Target</text>
+    <path d="M76 422V357M76 422H312" fill="none" stroke="#a5b4c3" stroke-width="2"/>
+    <path d="M87 410C123 402 127 385 161 381S213 379 242 366S277 359 302 353" fill="none" stroke="#6f9c68" stroke-width="5"/>
+    <path d="M87 418C119 414 134 396 168 391S216 390 249 379S281 374 302 368" fill="none" stroke="#9cbd95" stroke-width="4"/>
+    <path d="M344 208H381V293H414M344 379H381V293" fill="none" stroke="#70849a" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="426" y="196" width="190" height="196" rx="16" fill="#f2f4f7" stroke="#9ba9b9" stroke-width="2"/>
+    <rect x="453" y="236" width="30" height="76" rx="4" fill="#8eacc7"/>
+    <rect x="494" y="225" width="30" height="98" rx="4" fill="#7498ba"/>
+    <rect x="535" y="214" width="30" height="120" rx="4" fill="#5b83a9"/>
+    <text x="521" y="367" font-size="24" font-weight="700">Shared CNN</text>
+    <path d="M620 293H660" fill="none" stroke="#70849a" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="675" y="196" width="224" height="196" rx="16" fill="#f5f2fa" stroke="#afa3c6" stroke-width="2"/>
+    <g fill="#7298bd" stroke="#ffffff" stroke-width="2">
+      <circle cx="742" cy="255" r="11"/><circle cx="768" cy="278" r="11"/><circle cx="748" cy="302" r="11"/><circle cx="790" cy="252" r="11"/>
+    </g>
+    <g fill="#86ab7d" stroke="#ffffff" stroke-width="2">
+      <circle cx="784" cy="279" r="11"/><circle cx="818" cy="264" r="11"/><circle cx="796" cy="309" r="11"/><circle cx="834" cy="299" r="11"/>
+    </g>
+    <text x="787" y="352" font-size="22" font-weight="700">MMD alignment</text>
+    <text x="787" y="379" font-size="18" fill="#6f657f">across domains</text>
+    <path d="M904 293H943" fill="none" stroke="#70849a" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="958" y="196" width="202" height="196" rx="16" fill="#edf7f4" stroke="#8eb6aa" stroke-width="2"/>
+    <rect x="1010" y="227" width="97" height="56" rx="7" fill="#ffffff" stroke="#5f9586" stroke-width="4"/>
+    <rect x="1108" y="242" width="10" height="26" rx="3" fill="#5f9586"/>
+    <rect x="1020" y="238" width="17" height="34" rx="2" fill="#80af9d"/>
+    <rect x="1044" y="238" width="17" height="34" rx="2" fill="#80af9d"/>
+    <rect x="1068" y="238" width="17" height="34" rx="2" fill="#80af9d"/>
+    <text x="1059" y="332" font-size="23" font-weight="700">SOH estimation</text>
+    <text x="1059" y="364" font-size="18" fill="#668779">new battery</text>
+    <text x="600" y="513" font-size="19" fill="#86919d">Illustrative method overview</text>
+  </g>
+</svg>
