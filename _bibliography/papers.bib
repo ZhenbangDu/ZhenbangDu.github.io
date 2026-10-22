@@ -1,6 +1,18 @@
 ---
 ---
 
+@inproceedings{jin2026chainswe,
+  abbr={EMNLP 2026},
+  title={ChainSWE: Benchmarking Coding Agents on Multi-Bug Software Maintenance},
+  author={Jin, Qirui and Tung, Lingching and Li, Kenan and Shi, Qiyang and She, Yushi and Jia, Huanzhong and Zhao, Harrison and Xia, Kejing and Du, Zhenbang and Pei, Jiaxin and Zhang, Zhenyu and Qi, Zhen and Duan, Yuyan and Lee, Wenke and Jin, Zijian},
+  booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing},
+  abstract={Language model (LM) agents are increasingly deployed to maintain codebases over extended periods, fixing streams of related defects while carrying context from one fix to the next. Yet existing software engineering (SWE) benchmarks evaluate models one bug at a time: the repository is reset, the codebase is re-read, and a single self-contained issue is graded in isolation. This setting collapses a continuous maintenance workflow into a series of independent sessions, ignoring the cumulative dependencies that make real-world bug fixing challenging. To bridge this gap, we introduce ChainSWE, the first benchmark for evaluating agents on sequential, dependent bug fixes within a shared codebase. We collect chronological chains of 304 issues across 54 Python projects, mined from six SWE-bench-family datasets. Our evaluation across a range of agents and models reveals a consistent performance drop by up to 70% as the chain length increases.},
+  html={https://arxiv.org/abs/2607.02606},
+  code={https://github.com/C-lister/SWE-Edit},
+  year={2026},
+  preview={chainswe.png},
+}
+
 @article{du2026pact,
   abbr={Preprint},
   title={PACT: Privileged Trace Co-Training for Multi-Turn Tool-Use Agents},
