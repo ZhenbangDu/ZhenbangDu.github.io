@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="color: #d32f2f;">I am actively seeking internship opportunities for 2027. Feel free to reach out!</span>
+<strong style="color: #d32f2f;">I am actively seeking internship opportunities for 2027. Feel free to reach out!</strong>
